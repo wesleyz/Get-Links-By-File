@@ -1,0 +1,381 @@
+6 fÁbio 2 1 A 0 0 
+1 n 1 1 A 1 0 
+4 unes 1 1 A 2 0 
+2 at 6 3 A 3 0 1559 2662 
+7 arquivo 3 3 A 4 0 1559 2662 
+10 pancadaria 1 1 A 5 0 
+7 amanhã 1 1 A 6 0 
+2 no 9 2 A 7 0 1559 
+8 Álvares 1 1 A 8 0 
+7 simples 1 1 A 9 0 
+3 mas 1 1 A 10 0 
+2 um 7 3 A 11 0 1559 2662 
+7 sucesso 1 1 A 12 0 
+3 ▲ 8 1 A 13 0 
+7 cidades 2 2 A 14 0 2662 
+1 6 1 1 A 15 0 
+7 kadidja 1 1 A 16 0 
+9 fernandes 1 1 A 17 0 
+6 faltam 1 1 A 18 0 
+2 14 1 1 A 19 0 
+4 dias 2 1 A 20 0 
+4 para 8 2 A 21 0 2662 
+1 o 17 3 A 22 0 1559 2662 
+7 sorteio 1 1 A 23 0 
+2 do 15 3 A 24 0 1559 2662 
+11 apartamento 1 1 A 25 0 
+8 esportes 1 1 A 26 0 
+2 35 1 1 A 27 0 
+3 at2 1 1 A 28 0 
+2 r$ 1 1 A 29 0 
+1 1 2 1 A 30 0 
+2 00 1 1 A 31 0 
+17 disque-assinatura 1 1 A 32 0 
+9 3200-2177 1 1 A 33 0 
+30 vitÓria-es•sexta-feira•15 1 1 A 34 0 
+2 10 2 1 A 35 0 
+10 2004•ano 1 1 A 36 0 
+10 lxii•nº 1 1 A 37 0 
+2 21 1 1 A 38 0 
+13 396•fundado 1 1 A 39 0 
+2 em 10 3 A 40 0 1559 2662 
+2 22 1 1 A 41 0 
+2 09 1 1 A 42 0 
+15 1938•ediÇÃo 1 1 A 43 0 
+2 de 24 3 A 44 0 1559 2662 
+2 72 1 1 A 45 0 
+8 pÁginas 1 1 A 46 0 
+3 dom 1 1 A 47 0 
+5 bosco 1 1 A 48 0 
+7 extinto 1 1 A 49 0 
+1 e 16 3 A 50 0 1559 2662 
+5 menos 1 1 A 51 0 
+7 Ônibus 1 1 A 52 0 
+4 cen- 1 1 A 53 0 
+8 transcol 1 1 A 54 0 
+3 vai 2 2 A 55 0 1559 
+3 ter 2 2 A 56 0 1559 
+2 88 1 1 A 57 0 
+5 novas 2 2 A 58 0 2662 
+6 linhas 1 1 A 59 0 
+5 nunes 1 1 A 60 0 
+1 i 1 1 A 61 0 
+3 sso 1 1 A 62 0 
+5 será 1 1 A 63 0 
+9 possível 1 1 A 64 0 
+3 com 5 3 A 65 0 1559 2662 
+1 a 20 3 A 66 0 1559 2662 
+12 construção 1 1 A 67 0 
+6 partir 1 1 A 68 0 
+3 1º 1 1 A 69 0 
+8 semestre 1 1 A 70 0 
+4 2005 1 1 A 71 0 
+4 dois 1 1 A 72 0 
+9 terminais 1 1 A 73 0 
+9 itaparica 1 1 A 74 0 
+10 jacaraípe 1 1 A 75 0 
+4 duas 1 1 A 76 0 
+10 estações 1 1 A 77 0 
+14 transferência 1 1 A 78 0 
+4 são 2 2 A 79 0 1559 
+8 torquato 1 1 A 80 0 
+6 jardim 1 1 A 81 0 
+8 américa 1 1 A 82 0 
+6 centro 1 1 A 83 0 
+8 vitória 1 1 A 84 0 
+3 por 3 2 A 85 0 2662 
+4 hora 1 1 A 86 0 
+9 deixarão 1 1 A 87 0 
+8 circular 1 1 A 88 0 
+2 84 1 1 A 89 0 
+7 ônibus 1 1 A 90 0 
+3 nos 1 1 A 91 0 
+6 úteis 1 1 A 92 0 
+3 que 12 3 A 93 0 1559 2662 
+10 representa 1 1 A 94 0 
+3 079 1 1 A 95 0 
+7 viagens 1 1 A 96 0 
+8 diárias 1 1 A 97 0 
+3 2a4 1 1 A 98 0 
+2 cl 1 1 A 99 0 
+6 Áudio 1 1 A 100 0 
+8 humberto 1 1 A 101 0 
+6 visita 1 1 A 102 0 
+5 putin 1 1 A 103 0 
+8 novembro 1 1 A 104 0 
+7 aumenta 1 1 A 105 0 
+6 guerra 1 1 A 106 0 
+8 lobistas 1 1 A 107 0 
+9 reequipar 1 1 A 108 0 
+3 fab 1 1 A 109 0 
+8 letícia 1 1 A 110 0 
+4 seus 2 2 A 111 0 1559 
+6 alunos 2 1 A 112 0 
+2 da 8 3 A 113 0 1559 2662 
+3 1ª 1 1 A 114 0 
+6 série 1 1 A 115 0 
+10 professora 1 1 A 116 0 
+3 há 1 1 A 117 0 
+4 anos 1 1 A 118 0 
+7 formada 1 1 A 119 0 
+9 pedagogia 1 1 A 120 0 
+3 ela 1 1 A 121 0 
+8 continua 1 1 A 122 0 
+9 estudando 1 1 A 123 0 
+6 exigem 1 1 A 124 0 
+4 hoje 1 1 A 125 0 
+9 professor 1 1 A 126 0 
+10 atualizado 1 1 A 127 0 
+9 estudante 1 1 A 128 0 
+2 é 3 2 A 129 0 1559 
+7 baleado 1 1 A 130 0 
+4 pode 2 2 A 131 0 2662 
+5 ficar 1 1 A 132 0 
+12 paraplégico 1 1 A 133 0 
+1 9 1 1 A 134 0 
+10 descoberta 1 1 A 135 0 
+11 substância 1 1 A 136 0 
+7 protege 1 1 A 137 0 
+6 mulher 1 1 A 138 0 
+6 contra 2 2 A 139 0 2662 
+4 aids 1 1 A 140 0 
+8 panorama 1 1 A 141 0 
+10 econÔmico 1 1 A 142 0 
+6 apesar 1 1 A 143 0 
+11 lastimável 1 1 A 144 0 
+7 aumento 1 1 A 145 0 
+8 miséria 1 1 A 146 0 
+6 brasil 1 1 A 147 0 
+7 reduziu 1 1 A 148 0 
+6 nível 1 1 A 149 0 
+12 desigualdade 1 1 A 150 0 
+4 2002 1 1 A 151 0 
+4 2003 2 2 A 152 0 2662 
+8 economia 2 2 A 153 0 2662 
+2 24 1 1 A 154 0 
+8 bandidos 1 1 A 155 0 
+8 ameaçam 1 1 A 156 0 
+8 lojistas 1 1 A 157 0 
+5 praia 1 1 A 158 0 
+4 suá 1 1 A 159 0 
+10 invenção 1 1 A 160 0 
+3 – 4 3 A 161 0 1559 2662 
+4 algo 1 1 A 162 0 
+4 como 2 2 A 163 0 1559 
+3 uma 3 2 A 164 0 2662 
+6 pomada 1 1 A 165 0 
+7 poderia 1 1 A 166 0 
+3 ser 1 1 A 167 0 
+6 levada 1 1 A 168 0 
+2 na 4 2 A 169 0 1559 
+5 bolsa 1 1 A 170 0 
+9 anunciada 1 1 A 171 0 
+10 cientistas 1 1 A 172 0 
+10 americanos 1 1 A 173 0 
+8 bloqueia 1 1 A 174 0 
+12 transmissão 1 1 A 175 0 
+3 hiv 1 1 A 176 0 
+4 pelo 2 2 A 177 0 1559 
+3 ato 1 1 A 178 0 
+6 sexual 1 1 A 179 0 
+2 33 2 2 A 180 0 2662 
+8 polícia 2 1 A 181 0 
+2 17 1 1 A 182 0 
+5 estar 1 1 A 183 0 
+9 informado 1 1 A 184 0 
+8 dialogar 1 1 A 185 0 
+5 fazem 1 1 A 186 0 
+10 diferença 1 1 A 187 0 
+9 dia-a-dia 1 1 A 188 0 
+9 polÍtica 2 2 A 189 0 1559 
+2 32 1 1 A 190 0 
+2 16 1 1 A 191 0 
+10 presidente 4 2 A 192 1559 2662 
+4 lula 3 1 A 193 1559 
+5 está 1 1 A 194 1559 
+5 sendo 1 1 A 195 1559 
+11 pressionado 1 1 A 196 1559 
+5 pelos 1 1 A 197 1559 
+13 peemedebistas 2 1 A 198 1559 
+5 abrir 1 1 A 199 1559 
+4 mais 5 1 A 200 1559 
+7 espaço 1 1 A 201 1559 
+2 ao 2 1 A 202 1559 
+7 partido 2 1 A 203 1559 
+7 governo 2 1 A 204 1559 
+4 caso 2 2 A 205 1559 2662 
+10 contrário 1 1 A 206 1559 
+5 corre 1 1 A 207 1559 
+5 risco 1 1 A 208 1559 
+6 perder 1 1 A 209 1559 
+5 apoio 1 1 A 210 1559 
+7 legenda 1 1 A 211 1559 
+7 câmara 1 1 A 212 1559 
+7 federal 1 1 A 213 1559 
+6 senado 1 1 A 214 1559 
+7 tribuna 2 2 A 215 1559 2662 
+1 - 6 2 A 216 1559 2662 
+11 vitÓria-es 2 2 A 217 1559 2662 
+7 sÁbado 2 2 A 218 1559 2662 
+2 20 1 1 A 219 1559 
+2 11 2 2 A 220 1559 2662 
+4 2004 1 1 A 221 1559 
+9 senadores 2 1 A 222 1559 
+6 querem 1 1 A 223 1559 
+5 poder 3 2 A 224 1559 2662 
+3 ▼ 4 2 A 225 1559 2662 
+2 os 5 2 A 226 1559 2662 
+13 parlamentares 1 1 A 227 1559 
+8 jantaram 2 1 A 228 1559 
+5 ontem 3 2 A 229 1559 2662 
+7 desejam 1 1 A 230 1559 
+11 influência 1 1 A 231 1559 
+3 nas 1 1 A 232 1559 
+9 decisões 1 1 A 233 1559 
+2 36 1 1 A 234 1559 
+1 b 1 1 A 235 1559 
+8 rasÍlia 1 1 A 236 1559 
+4 meio 1 1 A 237 1559 
+2 à 1 1 A 238 1559 
+7 reforma 1 1 A 239 1559 
+11 ministerial 1 1 A 240 1559 
+4 pmdb 4 1 A 241 1559 
+4 luiz 1 1 A 242 1559 
+7 inácio 1 1 A 243 1559 
+5 silva 1 1 A 244 1559 
+7 levaram 1 1 A 245 1559 
+6 recado 1 1 A 246 1559 
+5 claro 1 1 A 247 1559 
+5 posto 1 1 A 248 1559 
+9 esplanada 1 1 A 249 1559 
+3 dos 1 1 A 250 1559 
+12 ministérios 1 1 A 251 1559 
+4 não 4 1 A 252 1559 
+7 segurar 1 1 A 253 1559 
+3 par 1 1 A 254 1559 
+4 tido 1 1 A 255 1559 
+4 eles 1 1 A 256 1559 
+11 reivindicam 1 1 A 257 1559 
+6 cargos 2 1 A 258 1559 
+2 ar 1 1 A 259 1559 
+7 gumento 1 1 A 260 1559 
+9 ministros 1 1 A 261 1559 
+12 previdência 1 1 A 262 1559 
+3 das 1 1 A 263 1559 
+14 comunicações 1 1 A 264 1559 
+10 participam 1 1 A 265 1559 
+12 elaboração 1 1 A 266 1559 
+10 políticas 1 1 A 267 1559 
+9 públicas 1 1 A 268 1559 
+8 comandam 1 1 A 269 1559 
+4 fato 1 1 A 270 1559 
+2 as 1 1 A 271 1559 
+9 próprias 1 1 A 272 1559 
+6 pastas 1 1 A 273 1559 
+3 já 1 1 A 274 1559 
+4 elas 1 1 A 275 1559 
+6 teriam 1 1 A 276 1559 
+4 sido 1 1 A 277 1559 
+11 aparelhadas 1 1 A 278 1559 
+2 pt 1 1 A 279 1559 
+7 também 1 1 A 280 1559 
+5 ocupa 1 1 A 281 1559 
+3 car 1 1 A 282 1559 
+3 gos 1 1 A 283 1559 
+7 segundo 1 1 A 284 1559 
+8 escalão 1 1 A 285 1559 
+12 presidência 1 1 A 286 1559 
+4 inss 1 1 A 287 1559 
+4 onde 1 1 A 288 1559 
+8 enfrenta 2 2 A 289 1559 2662 
+6 mesmos 1 1 A 290 1559 
+9 problemas 1 1 A 291 1559 
+6 ensaia 1 1 A 292 1559 
+6 deixar 1 1 A 293 1559 
+4 base 1 1 A 294 1559 
+6 aliada 1 1 A 295 1559 
+8 entregar 1 1 A 296 1559 
+11 definição 1 1 A 297 1559 
+11 acontecerá 1 1 A 298 1559 
+11 convenção 1 1 A 299 1559 
+8 nacional 1 1 A 300 1559 
+8 próximo 1 1 A 301 1559 
+3 dia 1 1 A 302 1559 
+2 12 1 1 A 303 1559 
+2 29 1 1 A 304 2662 
+1 c 1 1 A 305 2662 
+8 milhares 2 1 A 306 2662 
+12 venezuelanos 1 1 A 307 2662 
+5 foram 1 1 A 308 2662 
+3 às 1 1 A 309 2662 
+4 ruas 1 1 A 310 2662 
+7 coletar 2 1 A 311 2662 
+11 assinaturas 4 1 A 312 2662 
+4 pela 4 1 A 313 2662 
+9 redução 1 1 A 314 2662 
+7 mandato 2 1 A 315 2662 
+6 aracas 1 1 A 316 2662 
+7 pessoas 1 1 A 317 2662 
+8 formaram 1 1 A 318 2662 
+5 filas 1 1 A 319 2662 
+7 várias 1 1 A 320 2662 
+2 ve 1 1 A 321 2662 
+7 nezuela 1 1 A 322 2662 
+12 realização 2 1 A 323 2662 
+10 plebiscito 3 1 A 324 2662 
+7 definir 2 1 A 325 2662 
+6 futuro 2 1 A 326 2662 
+4 pre- 1 1 A 327 2662 
+10 oposição 3 1 A 328 2662 
+4 fila 1 1 A 329 2662 
+8 derrubar 1 1 A 330 2662 
+7 chávez 6 1 A 331 2662 
+7 sidente 1 1 A 332 2662 
+4 hugo 2 1 A 333 2662 
+3 tem 1 1 A 334 2662 
+4 até 1 1 A 335 2662 
+8 próxima 1 1 A 336 2662 
+13 segunda-feira 1 1 A 337 2662 
+8 recolher 1 1 A 338 2662 
+7 número 1 1 A 339 2662 
+7 mínimo 1 1 A 340 2662 
+1 2 1 1 A 341 2662 
+1 5 1 1 A 342 2662 
+8 milhões 1 1 A 343 2662 
+12 necessárias 1 1 A 344 2662 
+4 seja 2 1 A 345 2662 
+9 realizado 1 1 A 346 2662 
+3 ele 1 1 A 347 2662 
+8 aprovado 1 1 A 348 2662 
+9 eleitores 1 1 A 349 2662 
+8 poderão 1 1 A 350 2662 
+5 votar 1 1 A 351 2662 
+6 saída 1 1 A 352 2662 
+5 antes 1 1 A 353 2662 
+3 fim 1 1 A 354 2662 
+10 eleições 1 1 A 355 2662 
+6 coleta 1 1 A 356 2662 
+9 solicitar 1 1 A 357 2662 
+9 referendo 1 1 A 358 2662 
+8 começou 1 1 A 359 2662 
+6 grande 1 1 A 360 2662 
+14 participação 1 1 A 361 2662 
+8 ambiente 1 1 A 362 2662 
+7 festivo 1 1 A 363 2662 
+3 só 1 1 A 364 2662 
+3 foi 1 1 A 365 2662 
+8 alterado 1 1 A 366 2662 
+10 incidentes 1 1 A 367 2662 
+8 isolados 1 1 A 368 2662 
+5 acusa 1 1 A 369 2662 
+11 transformar 1 1 A 370 2662 
+9 venezuela 1 1 A 371 2662 
+7 tirania 1 1 A 372 2662 
+9 comunista 1 1 A 373 2662 
+11 administrar 1 1 A 374 2662 
+3 mal 1 1 A 375 2662 
+8 fomentar 1 1 A 376 2662 
+8 divisão 1 1 A 377 2662 
+7 classes 1 1 A 378 2662 
+7 sociais 1 1 A 379 2662 
+7 poderá 1 1 A 380 2662 
