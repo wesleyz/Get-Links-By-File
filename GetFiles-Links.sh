@@ -4,6 +4,7 @@ _processo=$2
 _path=`pwd`
 
 rm -Rf datasetLinks
+rm -Rf Index-Links-Tribuna
 mkdir datasetLinks
 rm indice.dat
 cd datasetLinks
@@ -30,3 +31,4 @@ cd ..
 find datasetLinks/ |grep txt > indice.dat
 
 aLine -i -l indice.dat -d Index-Links-Tribuna
+aLine --convert -d Index-Links-Tribuna
